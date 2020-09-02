@@ -1,5 +1,5 @@
 .jumbotron{
-    background-color: brown;
+    background-color:white;
 }
 .card-title{
     background-color: burlywood;
@@ -34,12 +34,12 @@ nav{
   
   
   nav>ul>li>a:active {
-    background-color: crimson;
+    background-color:white;
   }
   form {
       font-size: large;
       color: cadetblue;
   }
   body {
-      background-color: brown;
+      background-color:blanchedalmond;
   }
